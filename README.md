@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/M-AminAlizadeh](https://github.com/M-AminAlizadeh)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/M-AminAlizadeh)
 
-- 💬 Ask me about **Java script, React**
+- 💬 Ask me about **Html, CSS, Java script, React**
 
 - 📫 How to reach me **mohammadaminalizadeh1378@gmail.com**
 
@@ -28,7 +28,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amin.alizadeh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amin.alizadeh" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-aminalizadeh&show_icons=true&locale=en&layout=compact" alt="m-aminalizadeh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-aminalizadeh&show_icons=true&locale=en&layout=compact" alt="m-aminalizadeh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-aminalizadeh&show_icons=true&locale=en" alt="m-aminalizadeh" /></p>
 
