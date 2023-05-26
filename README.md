@@ -205,7 +205,9 @@
 </p>
 
 <!-- Support section -->
+<section>
 <h3 align="left">Support:</h3>
+<!-- Buy me coffee -->
 <p>
   <a href="https://www.buymeacoffee.com/amin.alizadeh">
     <img
@@ -240,3 +242,9 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=m-aminalizadeh&theme=monokai-metallian&hide_border=true"
     alt="m-aminalizadeh" />
 </p>
+<!-- Wakatime coding stats -->
+<figure>
+  <embed src="https://wakatime.com/share/@302253f6-9eb7-4711-b21c-575bcdee9da9/90b43698-e1e9-44a4-b0d9-d16bd56e833c.svg"></embed>
+</figure>
+
+</section>
