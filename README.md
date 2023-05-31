@@ -271,6 +271,5 @@
           alt="m-aminalizadeh" />
       </p>
       <!-- Wakatime coding stats -->
-      <img
-        src="https://wakatime.com/share/@302253f6-9eb7-4711-b21c-575bcdee9da9/90b43698-e1e9-44a4-b0d9-d16bd56e833c.svg" />
+      <img src="https://wakatime.com/share/@302253f6-9eb7-4711-b21c-575bcdee9da9/5aceb936-d46f-4003-bd1b-bd67bc4f5807.svg"/>
     </section>
