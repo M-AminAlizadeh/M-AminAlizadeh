@@ -18,7 +18,7 @@
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <!-- Codpen -->
-    <a href="https://codepen.io/aminalizadeh" target="blank"
+    <a href="https://codepen.io/aminalizadeh" target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
@@ -27,7 +27,7 @@
         width="40"
     /></a>
     <!-- Twitter -->
-    <a href="https://twitter.com/aminali69393891" target="blank"
+    <a href="https://twitter.com/Mamin_alizadeh" target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -36,7 +36,7 @@
         width="40"
     /></a>
     <!-- Linkedin -->
-    <a href="https://linkedin.com/in/m-amin-alizadeh-60a20b1b0" target="blank"
+    <a href="https://linkedin.com/in/m-amin-alizadeh-60a20b1b0" target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
