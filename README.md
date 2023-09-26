@@ -52,28 +52,6 @@
   <section>
       <h3 align="left">Languages</h3>
       <p align="left">
-        <!-- C language -->
-        <a
-          href="https://www.cprogramming.com/"
-          target="_blank"
-          rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c"
-            width="40"
-            height="40" />
-        </a>
-        <!-- C++ -->
-        <a
-          href="https://www.w3schools.com/cpp/"
-          target="_blank"
-          rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus"
-            width="40"
-            height="40" />
-        </a>
         <!-- Html -->
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img
@@ -101,22 +79,6 @@
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript"
-            width="40"
-            height="40" />
-        </a>
-      <!-- Graphql -->
-        <a href="https://graphql.org" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-            alt="graphql"
-            width="40"
-            height="40" />
-        </a>
-        <!-- Python -->
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python"
             width="40"
             height="40" />
         </a>
@@ -194,6 +156,10 @@
           alt="tailwind"
           width="40"
           height="40" />
+      </a>
+      <!-- Rails -->
+      <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/windows/40/ruby-on-rails.png" alt="ruby-on-rails"/>
       </a>
     </section>
     <!-- Tools -->
