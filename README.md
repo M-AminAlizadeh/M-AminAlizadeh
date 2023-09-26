@@ -133,14 +133,6 @@
           width="40"
           height="40" />
       </a>
-      <!-- Rails -->
-      <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
-          alt="rails"
-          width="40"
-          height="40" />
-      </a>
       <!-- React -->
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
@@ -159,7 +151,7 @@
       </a>
       <!-- Rails -->
       <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/windows/40/ruby-on-rails.png" alt="ruby-on-rails"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png" width="70px" alt="ruby-on-rails"/>
       </a>
     </section>
     <!-- Tools -->
