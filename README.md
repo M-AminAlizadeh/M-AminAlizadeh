@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-aminalizadeh" alt="m-aminalizadeh" /></a> </p>
 <!-- Description -->
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning Ruby
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/M-AminAlizadeh)
 
