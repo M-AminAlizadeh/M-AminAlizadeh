@@ -5,24 +5,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-aminalizadeh" alt="m-aminalizadeh" /></a> </p>
 <!-- Description -->
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Ruby on Rails
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/M-AminAlizadeh)
 
-- 💬 Ask me about **Html, CSS, Java script, React**
+- 💬 Ask me about **Html, CSS, Javascript, React**
 
-- 📫 How to reach me **mohammadaminalizadeh1378@gmail.com**
+- 📫 How to reach me
+  - [Email](mailto:mohammadaminalizadeh1378@gmail.com)
+  - [Linkedin](https://linkedin.com/in/m-amin-alizadeh) (text me from here)
 
 <!-- Connect with me -->
 <section>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <!-- Codpen -->
-    <a href="https://codepen.io/aminalizadeh" target="_blank"
+    <!-- Linkedin -->
+    <a href="https://linkedin.com/in/m-amin-alizadeh" target="_blank"
       ><img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-        alt="aminalizadeh"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="m-amin-alizadeh"
         height="30"
         width="40"
     /></a>
@@ -35,21 +37,11 @@
         height="30"
         width="40"
     /></a>
-    <!-- Linkedin -->
-    <a href="https://linkedin.com/in/m-amin-alizadeh" target="_blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="m-amin-alizadeh"
-        height="30"
-        width="40"
-    /></a>
   </p>
 </section>
 
-   <!-- Languages -->
-
   <section>
+   <!-- Languages -->
       <h3 align="left">Languages</h3>
       <p align="left">
         <!-- Html -->
@@ -192,21 +184,6 @@
     </section>
     <!-- Support section -->
     <section>
-      <h3 align="left">Support:</h3>
-      <!-- Buy me coffee -->
-      <p>
-        <a href="https://www.buymeacoffee.com/amin.alizadeh">
-          <img
-            align="left"
-            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-            height="50"
-            width="210"
-            alt="amin.alizadeh"
-        /></a>
-      </p>
-      <br />
-      <br />
-      <br />
       <!-- Most used languages -->
       <p>
         <img
