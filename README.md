@@ -1,6 +1,6 @@
 # Hello, I'm Amin Alizadeh
 
-Full-stack Web Developer
+Full-stack Developer (React/ Rails), Open-source lover, Currently working on [AAK](https://github.com/AAK-Tele-Science), obsessed with making stuff easier for everyone (clean code)
 
 ![Profile views](https://komarev.com/ghpvc/?username=m-aminalizadeh&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -11,7 +11,6 @@ Full-stack Web Developer
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=m-aminalizadeh&show_icons=true&layout=compact&theme=dracula&show_icons=true&hide_border=true)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=m-aminalizadeh&show_icons=true&theme=dracula&show_icons=true&hide_border=true)
 ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=m-aminalizadeh&theme=monokai-metallian&hide_border=true)
-![Wakatime](https://wakatime.com/share/@302253f6-9eb7-4711-b21c-575bcdee9da9/f7cfab99-a8d5-4a2c-a904-da84c614cb4a.svg)
 
 ## Tech tools
 
@@ -41,12 +40,6 @@ Full-stack Web Developer
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-<!-- ![Clean code]()
-![SOLID]()
-![TDD]()
-![Gitflow]()
-![Pair-programming]()
-![Remote teamwork]() -->
 
 ## How to reach me?
 
