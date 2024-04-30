@@ -1,6 +1,6 @@
 # Hello, I'm Amin Alizadeh
 
-Full-stack Developer (React/ Rails), Open-source lover, Currently working on [AAK](https://github.com/AAK-Tele-Science), Try to get better than yesterday (0.01%), open to new opportunities.
+Full-stack Developer (React/ Rails), Open-source lover, Currently working on [AAK](https://github.com/AAK-Tele-Science), Try to get better than yesterday (0.1%), open to new opportunities.
 
 ![Profile views](https://komarev.com/ghpvc/?username=m-aminalizadeh&label=Profile%20views&color=0e75b6&style=flat)
 
