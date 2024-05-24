@@ -1,12 +1,12 @@
 # Hello, I'm Amin Alizadeh
 
-Full-stack Developer (React/ Rails), Open-source lover, Currently working on [AAK](https://github.com/AAK-Tele-Science), Try to get better than yesterday (0.1%), open to new opportunities.
+- Full-stack Developer (React/ Rails)
+- Open-source contributor
+- Try to get better than yesterday (0.1%).
 
 ![Profile views](https://komarev.com/ghpvc/?username=m-aminalizadeh&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Current status
-
-![Github trophy](https://github-profile-trophy.vercel.app/?username=m-aminalizadeh)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=m-aminalizadeh&show_icons=true&layout=compact&theme=dracula&show_icons=true&hide_border=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-aminalizadeh&show_icons=true&theme=dracula&show_icons=true&hide_border=true)
@@ -43,6 +43,5 @@ Full-stack Developer (React/ Rails), Open-source lover, Currently working on [AA
 
 ## How to reach me?
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadaminalizadeh1378@gmail.com)
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminalizadeh@riseup.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-amin-alizadeh)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-AminAlizadeh)
