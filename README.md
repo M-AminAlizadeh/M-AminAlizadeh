@@ -2,15 +2,10 @@
 
 - Full-stack Developer (React/ Rails)
 - Open-source contributor
-- Try to get better than yesterday (0.1%).
+- Try to get better than yesterday (0.1%)
+- I've been coding last 3 years
 
 ![Profile views](https://komarev.com/ghpvc/?username=m-aminalizadeh&label=Profile%20views&color=0e75b6&style=flat)
-
-## Current status
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=m-aminalizadeh&show_icons=true&layout=compact&theme=dracula&show_icons=true&hide_border=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-aminalizadeh&show_icons=true&theme=dracula&show_icons=true&hide_border=true)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=m-aminalizadeh&theme=monokai-metallian&hide_border=true)
 
 ## Tech tools
 
@@ -31,15 +26,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
 ## How to reach me?
 
